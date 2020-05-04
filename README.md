@@ -1,1 +1,6 @@
-# exceptionit_-taskbook
+# Exception IT taskbook
+
+### Задача 1:
+Написать скрипт, генерирующий рандомные последовательности букв(латиница верхний и нижний регистр) и цифр длинной в 30 символов.
+Пример:
+xwREcRLl9rCsZBvaBOUKBHiRcgZgeP
